@@ -1,4 +1,7 @@
 Esta es la primera modificación
 Este texto es de la rama develop:w
 Esta es la prueba para el conflicto con new
-y una linea adicional por si las dudas :Q 
+y una linea adicional por si las dudas :Q
+Esta es en main, supongo que para tenr un conflicto
+Este texto es de la rama develop:w
+Este texto es de new:
